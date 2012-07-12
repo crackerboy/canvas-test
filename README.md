@@ -1,6 +1,6 @@
 This is a quick canvas test game
 
-== Instructions ==
+## Instructions ##
 
 Use arrow keys to move player
 
